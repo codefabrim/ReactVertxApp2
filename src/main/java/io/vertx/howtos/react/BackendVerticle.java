@@ -1,4 +1,4 @@
-package react;
+package io.vertx.howtos.react;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Vertx;
